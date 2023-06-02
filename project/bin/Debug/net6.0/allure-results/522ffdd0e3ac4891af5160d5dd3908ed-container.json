@@ -1,0 +1,58 @@
+{
+  "uuid": "tc-0-1001",
+  "name": "ST_Testing_SwagLab.BaseTesting.HappyFlow",
+  "children": [
+    "abd8e84a-99da-422a-94d7-711f5c252720-tr-0-1001",
+    "abd8e84a-99da-422a-94d7-711f5c252720-tr-0-1001",
+    "abd8e84a-99da-422a-94d7-711f5c252720-tr-0-1001"
+  ],
+  "befores": [
+    {
+      "name": "Test Init",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Test Init Setup",
+          "source": "85f2c39c214645728941a2d76a583ab8-attachment",
+          "type": "image/png"
+        }
+      ],
+      "parameters": [],
+      "start": 1685740318688,
+      "stop": 1685740318863
+    }
+  ],
+  "afters": [
+    {
+      "name": "Test Clean",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Test Clean Method",
+          "source": "627d4ca58437446fb8990ea0b72e36ab-attachment",
+          "type": "image/png"
+        }
+      ],
+      "parameters": [],
+      "start": 1685740320847,
+      "stop": 1685740321078
+    }
+  ],
+  "links": [],
+  "start": 1685740316615,
+  "stop": 1685740321183
+}

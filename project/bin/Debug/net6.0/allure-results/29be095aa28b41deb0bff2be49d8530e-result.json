@@ -1,0 +1,120 @@
+{
+  "uuid": "23726f4f-d3db-471b-8eb9-1e301cca79b5-tr-0-1001",
+  "historyId": "ST_Testing_SwagLab.BaseTesting.HappyFlow",
+  "fullName": "ST_Testing_SwagLab.BaseTesting.HappyFlow",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-08KO2QN"
+    },
+    {
+      "name": "package",
+      "value": "ST_Testing_SwagLab"
+    },
+    {
+      "name": "testMethod",
+      "value": "HappyFlow"
+    },
+    {
+      "name": "testClass",
+      "value": "BaseTesting"
+    },
+    {
+      "name": "tag",
+      "value": "Allure"
+    },
+    {
+      "name": "epic",
+      "value": "Hotel EPIC"
+    },
+    {
+      "name": "feature",
+      "value": "Core Feature"
+    },
+    {
+      "name": "story",
+      "value": "Booking Hotel User Story"
+    },
+    {
+      "name": "owner",
+      "value": "Amir Imam"
+    },
+    {
+      "name": "tag",
+      "value": "NUnit"
+    },
+    {
+      "name": "tag",
+      "value": "Debug"
+    },
+    {
+      "name": "tag",
+      "value": "Booking"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    },
+    {
+      "name": "ALLURE_ID",
+      "value": "123"
+    },
+    {
+      "name": "suite",
+      "value": "Booking Suite"
+    }
+  ],
+  "links": [
+    {
+      "name": "Defect 54 ",
+      "url": "https://dev.azure.com/DemoOrganizationAI/DemoAgileProject/_workitems/edit/54",
+      "type": "tms"
+    },
+    {
+      "name": "TestCase 38",
+      "url": "https://dev.azure.com/DemoOrganizationAI/DemoAgileProject/_workitems/edit/38",
+      "type": "link"
+    }
+  ],
+  "name": "HappyFlow",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "HappyFlow"
+  },
+  "stage": "finished",
+  "description": "This is for demo purpose",
+  "steps": [
+    {
+      "name": "HappyFlow",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1685741569429,
+      "stop": 1685741571961
+    }
+  ],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "8334c75fdd314d7cab6f02a021014a75-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1685741566277,
+  "stop": 1685741572894
+}

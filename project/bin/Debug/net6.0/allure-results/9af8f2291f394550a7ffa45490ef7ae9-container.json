@@ -1,0 +1,26 @@
+{
+  "uuid": "tc-0-1000",
+  "name": "ST_Testing_SwagLab.BaseTesting",
+  "children": [],
+  "befores": [
+    {
+      "name": "OneTimeSetUp",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1685740316606,
+      "stop": 1685740316611
+    }
+  ],
+  "afters": [],
+  "links": [],
+  "start": 1685740316602,
+  "stop": 1685740321216
+}

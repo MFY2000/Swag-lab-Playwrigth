@@ -1,0 +1,101 @@
+2023-06-02T21:36:30.626Z pw:api navigating to "https://www.saucedemo.com/", waiting until "load"
+2023-06-02T21:36:31.039Z pw:api   "commit" event fired
+2023-06-02T21:36:31.040Z pw:api   navigated to "https://www.saucedemo.com/"
+2023-06-02T21:36:31.539Z pw:api   "domcontentloaded" event fired
+2023-06-02T21:36:31.770Z pw:api   "load" event fired
+2023-06-02T21:36:31.803Z pw:api waiting for Locator("#user-name")
+2023-06-02T21:36:31.832Z pw:api   locator resolved to <input value="" type="text" id="user-name" name="user-nΓÇª/>
+2023-06-02T21:36:31.835Z pw:api elementHandle.fill("standard_user")
+2023-06-02T21:36:31.835Z pw:api   waiting for element to be visible, enabled and editable
+2023-06-02T21:36:31.852Z pw:api   element is visible, enabled and editable
+2023-06-02T21:36:31.867Z pw:api waiting for Locator("#password")
+2023-06-02T21:36:31.872Z pw:api   locator resolved to <input value="" id="password" type="password" name="pasΓÇª/>
+2023-06-02T21:36:31.875Z pw:api elementHandle.fill("secret_sauce")
+2023-06-02T21:36:31.875Z pw:api   waiting for element to be visible, enabled and editable
+2023-06-02T21:36:31.888Z pw:api   element is visible, enabled and editable
+2023-06-02T21:36:31.899Z pw:api waiting for Locator("#login-button")
+2023-06-02T21:36:31.902Z pw:api   locator resolved to <input type="submit" value="Login" id="login-button" naΓÇª/>
+2023-06-02T21:36:31.905Z pw:api attempting click action
+2023-06-02T21:36:31.905Z pw:api   waiting for element to be visible, enabled and stable
+2023-06-02T21:36:31.927Z pw:api   element is visible, enabled and stable
+2023-06-02T21:36:31.927Z pw:api   scrolling into view if needed
+2023-06-02T21:36:31.929Z pw:api   done scrolling
+2023-06-02T21:36:31.934Z pw:api   performing click action
+2023-06-02T21:36:31.949Z pw:api   navigated to "https://www.saucedemo.com/inventory.html"
+2023-06-02T21:36:32.013Z pw:api   click action done
+2023-06-02T21:36:32.013Z pw:api   waiting for scheduled navigations to finish
+2023-06-02T21:36:32.018Z pw:api   navigations have finished
+2023-06-02T21:36:32.025Z pw:api waiting for Locator("[name = 'add-to-cart-sauce-labs-backpack']")
+2023-06-02T21:36:32.031Z pw:api   locator resolved to <button id="add-to-cart-sauce-labs-backpack" name="add-tΓÇª>Add to cart</button>
+2023-06-02T21:36:32.033Z pw:api attempting click action
+2023-06-02T21:36:32.034Z pw:api   waiting for element to be visible, enabled and stable
+2023-06-02T21:36:32.102Z pw:api   element is visible, enabled and stable
+2023-06-02T21:36:32.102Z pw:api   scrolling into view if needed
+2023-06-02T21:36:32.104Z pw:api   done scrolling
+2023-06-02T21:36:32.112Z pw:api   performing click action
+2023-06-02T21:36:32.126Z pw:api   click action done
+2023-06-02T21:36:32.126Z pw:api   waiting for scheduled navigations to finish
+2023-06-02T21:36:32.128Z pw:api   navigations have finished
+2023-06-02T21:36:32.139Z pw:api waiting for Locator(".shopping_cart_link")
+2023-06-02T21:36:32.145Z pw:api   locator resolved to <a class="shopping_cart_link">ΓÇª</a>
+2023-06-02T21:36:32.147Z pw:api attempting click action
+2023-06-02T21:36:32.147Z pw:api   waiting for element to be visible, enabled and stable
+2023-06-02T21:36:32.162Z pw:api   element is visible, enabled and stable
+2023-06-02T21:36:32.162Z pw:api   scrolling into view if needed
+2023-06-02T21:36:32.163Z pw:api   done scrolling
+2023-06-02T21:36:32.167Z pw:api   performing click action
+2023-06-02T21:36:32.179Z pw:api   navigated to "https://www.saucedemo.com/cart.html"
+2023-06-02T21:36:32.200Z pw:api   click action done
+2023-06-02T21:36:32.200Z pw:api   waiting for scheduled navigations to finish
+2023-06-02T21:36:32.216Z pw:api   navigations have finished
+2023-06-02T21:36:32.222Z pw:api waiting for Locator("[id='checkout']")
+2023-06-02T21:36:32.230Z pw:api   locator resolved to <button id="checkout" name="checkout" data-test="checkouΓÇª>Checkout</button>
+2023-06-02T21:36:32.232Z pw:api attempting click action
+2023-06-02T21:36:32.232Z pw:api   waiting for element to be visible, enabled and stable
+2023-06-02T21:36:32.245Z pw:api   element is visible, enabled and stable
+2023-06-02T21:36:32.246Z pw:api   scrolling into view if needed
+2023-06-02T21:36:32.247Z pw:api   done scrolling
+2023-06-02T21:36:32.251Z pw:api   performing click action
+2023-06-02T21:36:32.263Z pw:api   navigated to "https://www.saucedemo.com/checkout-step-one.html"
+2023-06-02T21:36:32.321Z pw:api   click action done
+2023-06-02T21:36:32.321Z pw:api   waiting for scheduled navigations to finish
+2023-06-02T21:36:32.334Z pw:api   navigations have finished
+2023-06-02T21:36:32.347Z pw:api waiting for Locator("#first-name")
+2023-06-02T21:36:32.352Z pw:api   locator resolved to <input value="" type="text" id="first-name" name="firstΓÇª/>
+2023-06-02T21:36:32.354Z pw:api elementHandle.fill("Ahsan")
+2023-06-02T21:36:32.354Z pw:api   waiting for element to be visible, enabled and editable
+2023-06-02T21:36:32.370Z pw:api   element is visible, enabled and editable
+2023-06-02T21:36:32.387Z pw:api waiting for Locator("#last-name")
+2023-06-02T21:36:32.392Z pw:api   locator resolved to <input value="" type="text" id="last-name" name="lastNaΓÇª/>
+2023-06-02T21:36:32.395Z pw:api elementHandle.fill("Mansoori")
+2023-06-02T21:36:32.395Z pw:api   waiting for element to be visible, enabled and editable
+2023-06-02T21:36:32.403Z pw:api   element is visible, enabled and editable
+2023-06-02T21:36:32.414Z pw:api waiting for Locator("#postal-code")
+2023-06-02T21:36:32.417Z pw:api   locator resolved to <input value="" type="text" id="postal-code" name="postΓÇª/>
+2023-06-02T21:36:32.419Z pw:api elementHandle.fill("23456")
+2023-06-02T21:36:32.419Z pw:api   waiting for element to be visible, enabled and editable
+2023-06-02T21:36:32.430Z pw:api   element is visible, enabled and editable
+2023-06-02T21:36:32.438Z pw:api waiting for Locator("#continue")
+2023-06-02T21:36:32.443Z pw:api   locator resolved to <input type="submit" id="continue" name="continue" valuΓÇª/>
+2023-06-02T21:36:32.446Z pw:api attempting click action
+2023-06-02T21:36:32.446Z pw:api   waiting for element to be visible, enabled and stable
+2023-06-02T21:36:32.477Z pw:api   element is visible, enabled and stable
+2023-06-02T21:36:32.477Z pw:api   scrolling into view if needed
+2023-06-02T21:36:32.479Z pw:api   done scrolling
+2023-06-02T21:36:32.483Z pw:api   performing click action
+2023-06-02T21:36:32.495Z pw:api   navigated to "https://www.saucedemo.com/checkout-step-two.html"
+2023-06-02T21:36:32.524Z pw:api   click action done
+2023-06-02T21:36:32.524Z pw:api   waiting for scheduled navigations to finish
+2023-06-02T21:36:32.532Z pw:api   navigations have finished
+2023-06-02T21:36:32.546Z pw:api waiting for Locator("#finish")
+2023-06-02T21:36:32.550Z pw:api   locator resolved to <button id="finish" name="finish" data-test="finish" claΓÇª>Finish</button>
+2023-06-02T21:36:32.552Z pw:api attempting click action
+2023-06-02T21:36:32.552Z pw:api   waiting for element to be visible, enabled and stable
+2023-06-02T21:36:32.561Z pw:api   element is visible, enabled and stable
+2023-06-02T21:36:32.561Z pw:api   scrolling into view if needed
+2023-06-02T21:36:32.562Z pw:api   done scrolling
+2023-06-02T21:36:32.566Z pw:api   performing click action
+2023-06-02T21:36:32.578Z pw:api   navigated to "https://www.saucedemo.com/checkout-complete.html"
+2023-06-02T21:36:32.592Z pw:api   click action done
+2023-06-02T21:36:32.592Z pw:api   waiting for scheduled navigations to finish
+2023-06-02T21:36:32.598Z pw:api   navigations have finished
